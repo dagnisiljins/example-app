@@ -37,7 +37,7 @@
         @endif
 
             <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
-                <h1 style="color: white;">Welcome to</h1>
+                <h1 style="color: rgb(128,128,128);">Welcome to</h1>
                 <div class="flex justify-center pt-8 sm:justify-start sm:pt-0">
                     <a href="/welcome" class="h-16 w-auto text-gray-700 sm:h-20">
                         <svg viewBox="0 0 651 192" fill="none" xmlns="http://www.w3.org/2000/svg" class="h-16 w-auto text-gray-700 sm:h-20">
@@ -47,7 +47,7 @@
                         </svg>
                     </a>
                 </div>
-                <p style="color: white;">Click on image to explore more</p>
+                <p style="color: rgb(128,128,128);">Click on image to explore more</p>
             </div>
         </div>
     </body>
